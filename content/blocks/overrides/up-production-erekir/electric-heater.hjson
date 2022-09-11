@@ -1,0 +1,7 @@
+health: 1
+
+// requirements: [ graphite/1 ]
+requirements: []
+buildCostMultiplier: 0.1
+
+alwaysUnlocked: true

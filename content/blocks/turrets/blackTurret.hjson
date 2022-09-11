@@ -1,0 +1,43 @@
+type: ItemTurret
+name: Black Turret
+description: Black Turret
+
+health: 99000
+size: 1
+
+reloadTime: 8.0
+range: 240
+inaccuracy: 1
+rotateSpeed: 12
+
+ammoTypes: {
+  beryllium: {
+	ammoMultiplier: 5
+	width: 6
+	height: 7
+	
+	lifetime: 80
+	speed: 4.0
+	damage: 180.0
+	
+	splashDamage: 180
+	splashDamageRadius: 64
+	
+	pierce: true
+	pierceBuilding: true
+	
+	absorbable: false
+	reflectable: false
+	
+	shootEffect: shootSmall
+	smokeEffect: shootSmallSmoke
+  }
+}
+
+requirements: [ beryllium/1 ]
+buildCostMultiplier: 0.1
+
+category: turret
+research: redTurret
+
+alwaysUnlocked: true

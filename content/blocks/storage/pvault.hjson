@@ -1,0 +1,17 @@
+type: StorageBlock
+name: Player Vault
+description: Player Vault
+
+itemCapacity: 95000
+hasItems: true
+
+health: 99000
+size: 3
+
+requirements: [ graphite/1 ]
+buildCostMultiplier: 0.1
+
+category: effect
+research: pcontainer
+
+alwaysUnlocked: true
