@@ -18,3 +18,7 @@ There is a new factory to easily create certain combat units.
 <br>
 
 Some combat units received a speed increase.
+
+<br>
+
+Worker drones build faster: (Evoke, Incite, Emanate).
