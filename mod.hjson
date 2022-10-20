@@ -5,3 +5,4 @@ description: This mod makes it easier to play Erekir.
 version: "1.0.1"
 minGameVersion: "138"
 dependencies: []
+hideBrowser: true
